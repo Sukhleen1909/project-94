@@ -1,0 +1,21 @@
+.container{
+	background-image: url("image.jpg");
+ background-position: center;
+ background-size: cover;
+ text-align: center;
+ }
+ .input_div_room_page
+ {
+	 width: 80%;
+ }
+ 
+ .room_name
+ {
+	 cursor: pointer;
+	 font-size: 20px;
+ }
+ 
+ #output
+ {
+	 padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+ }

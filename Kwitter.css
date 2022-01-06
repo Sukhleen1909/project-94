@@ -1,0 +1,25 @@
+.body_background {
+    background-image: url("image.jpg");
+ background-position: center;
+ background-size: cover;
+ text-align: center;
+}
+ #login_button
+{
+	width: 90%;border-radius: 15px;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+#user_name {
+    text-align: center;
+    margin-left: 500px;
+    margin-top: 50px;
+    width: 90%
+}
+#login_one {
+    margin-left: 700px;
+    margin-top: 50px; 
+   
+}
+
+
